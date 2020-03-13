@@ -5,6 +5,7 @@ Here are quick links for my kids:
 
 Child | Branch | Binder
 ---|---|---
+Master |[Branch](https://github.com/pauldria/Python-Tutorial) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pauldria/Python-Tutorial/master)
 Alaina | [Branch](https://github.com/pauldria/Python-Tutorial/tree/Alaina) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pauldria/Python-Tutorial/Alaina)
 Ben    | [Branch](https://github.com/pauldria/Python-Tutorial/tree/Ben)    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pauldria/Python-Tutorial/Ben)
 Claire | [Branch](https://github.com/pauldria/Python-Tutorial/tree/Claire) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pauldria/Python-Tutorial/Claire)
