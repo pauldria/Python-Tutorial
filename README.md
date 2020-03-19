@@ -4,7 +4,7 @@ Python tutorial I am creating for my family as we're homeschooling through COVID
 Here are quick links for my kids: 
 
 Child | Branch | Binder | Colabatory (by Lesson)
----|---|---
+---|---|---|---
 Master |[Branch](https://github.com/pauldria/Python-Tutorial) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pauldria/Python-Tutorial/master) | [4](https://colab.research.google.com/github/pauldria/Python-Tutorial/blob/master/Lessons/04%20-%20Quiz%201.ipynb)
 Alaina | [Branch](https://github.com/pauldria/Python-Tutorial/tree/Alaina) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pauldria/Python-Tutorial/Alaina) | [4](https://colab.research.google.com/github/pauldria/Python-Tutorial/blob/Alaina/Lessons/04%20-%20Quiz%201.ipynb)
 Ben    | [Branch](https://github.com/pauldria/Python-Tutorial/tree/Ben)    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pauldria/Python-Tutorial/Ben) | [4](https://colab.research.google.com/github/pauldria/Python-Tutorial/blob/Ben/Lessons/04%20-%20Quiz%201.ipynb)
